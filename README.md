@@ -56,10 +56,9 @@ This is a simple Tic-Tac-Toe game implemented using Python's `tkinter` library f
 - **`reset_game()`**: Resets the game board and state.
 
 ## Screenshots
-
-![Screenshot 2024-08-26 173102](https://github.com/user-attachments/assets/f52eeb16-0132-4c37-b03f-fa7bf557552b)
 ![Screenshot 2024-08-26 172416](https://github.com/user-attachments/assets/50d086c3-e26d-4a1a-998b-9268ae34d64f)
-
+![Screenshot 2024-08-26 173102](https://github.com/user-attachments/assets/f52eeb16-0132-4c37-b03f-fa7bf557552b)
+![Screenshot 2024-08-26 173302](https://github.com/user-attachments/assets/ab7ef9d5-68c9-4cff-93c5-a264483998d9)
 
 ## Contributing
 
